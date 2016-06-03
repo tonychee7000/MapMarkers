@@ -41,7 +41,7 @@ var MAPCRAFTER_MARKERS = [
 				{"pos" : [-65, -439, 64], "title" : "小黑雕像", "icon" : "pin.png", "iconSize" : [16, 16]},
 				{"pos" : [-23, -414, 64], "title" : "半自动TNT炮 by:TonyChyi", "icon" : "pin.png", "iconSize" : [16, 16]},
 				{"pos" : [-11, -376, 64], "title" : "苦力怕雕像 by:TonyChyi", "icon" : "pin.png", "iconSize" : [16, 16]},
-				{"pos" : [-82, -312, 64], "title" : "BOC Tower", "icon" : "tower.png", "iconSize" : [16, 16]},
+				{"pos" : [-82, -312, 64], "title" : "BOC Tower by:Akarin", "icon" : "tower.png", "iconSize" : [16, 16]},
 				{"pos" : [-39, -222, 64], "title" : "丰甜神庙 by:丰甜儿", "icon" : "temple.png", "iconSize" : [16, 16]},
 				{"pos" : [60, -259, 64], "title" : "820 Scientific Tower", "icon" : "tower.png", "iconSize" : [16, 16]},
 				{"pos" : [80, -219, 64], "title" : "Leo的框架小屋 by:leo_song", "icon" : "house.png", "iconSize" : [16, 16]},
