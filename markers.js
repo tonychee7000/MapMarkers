@@ -21,7 +21,7 @@ var MAPCRAFTER_MARKERS = [
 				{"pos" : [230, 350, 64], "title" : "出生点", "icon" : "world.png", "iconSize" : [16, 16]},
 				{"pos" : [241, 49, 64], "title" : "创造世界穿越点", "icon" : "portal.png", "iconSize" : [16, 16]},
 				{"pos" : [-5733, -1292, 64], "title" : "粘土高原传送点", "icon" : "portal.png", "iconSize" : [16, 16]},
-				{"pos" : [-4889, -3891, 64], "title" : "丛林传送点", "icon" : "portal.png", "iconSize" : [16, 16]},
+				{"pos" : [-4889, 3891, 64], "title" : "丛林传送点", "icon" : "portal.png", "iconSize" : [16, 16]},
 				{"pos" : [377, 395, 64], "title" : "竞技场", "icon" : "shield.png", "iconSize" : [16, 16]},
 				{"pos" : [374, 419, 64], "title" : "射箭场", "icon" : "shield.png", "iconSize" : [16, 16]},
 				{"pos" : [377, 460, 64], "title" : "梅花桩", "icon" : "shield.png", "iconSize" : [16, 16]},
