@@ -77,6 +77,7 @@ var MAPCRAFTER_MARKERS = [
 				{"pos" : [265, 227, 64], "title" : "TJM"},
 				{"pos" : [158, 317, 64], "title" : "StarBrilliant"},
 				{"pos" : [62, 406, 64], "title" : "BumpFuel"},
+				{"pos" : [182, 389, 64], "title" : "Tosho"},
 				{"pos" : [1294, 44, 64], "title" : "Joker_Qyou"},
             ],
 	    },
