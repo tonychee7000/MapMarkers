@@ -55,7 +55,7 @@ var MAPCRAFTER_MARKERS = [
 				{"pos" : [358, -615, 64], "title" : "TJM小屋 by:TJM", "icon" : "default.png", "iconSize" : [16, 16]},
 				{"pos" : [38, -460, 64], "title" : "东方全家桶 by:Tosho", "icon" : "pin.png", "iconSize" : [16, 16]},
 				{"pos" : [53, -400, 64], "title" : "红魔馆 by:Jimmy", "icon" : "pin.png", "iconSize" : [16, 16]},
-				{"pos" : [-342, 772, 64], "title" : "雪源小屋", "icon" : "default.png", "iconSize" : [16, 16]},
+				{"pos" : [-342, 772, 64], "title" : "雪原小屋", "icon" : "default.png", "iconSize" : [16, 16]},
 				{"pos" : [187, -469, 64], "title" : "巴黎恐袭纪念碑 by:TonyChyi", "icon" : "pin.png", "iconSize" : [16, 16]},
 			]
 		},
